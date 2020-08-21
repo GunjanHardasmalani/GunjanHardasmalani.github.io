@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/GunjanHardasmalani.github.io/static/css/main.14f91e5e.chunk.css",
+    "main.js": "/GunjanHardasmalani.github.io/static/js/main.e67da6bf.chunk.js",
+    "main.js.map": "/GunjanHardasmalani.github.io/static/js/main.e67da6bf.chunk.js.map",
+    "runtime-main.js": "/GunjanHardasmalani.github.io/static/js/runtime-main.b11d9ec3.js",
+    "runtime-main.js.map": "/GunjanHardasmalani.github.io/static/js/runtime-main.b11d9ec3.js.map",
+    "static/js/2.5ad8eb05.chunk.js": "/GunjanHardasmalani.github.io/static/js/2.5ad8eb05.chunk.js",
+    "static/js/2.5ad8eb05.chunk.js.map": "/GunjanHardasmalani.github.io/static/js/2.5ad8eb05.chunk.js.map",
+    "index.html": "/GunjanHardasmalani.github.io/index.html",
+    "precache-manifest.ca766d7717e6cdc7ef930d04cca9f0fa.js": "/GunjanHardasmalani.github.io/precache-manifest.ca766d7717e6cdc7ef930d04cca9f0fa.js",
+    "service-worker.js": "/GunjanHardasmalani.github.io/service-worker.js",
+    "static/css/main.14f91e5e.chunk.css.map": "/GunjanHardasmalani.github.io/static/css/main.14f91e5e.chunk.css.map",
+    "static/js/2.5ad8eb05.chunk.js.LICENSE.txt": "/GunjanHardasmalani.github.io/static/js/2.5ad8eb05.chunk.js.LICENSE.txt",
+    "static/media/about-me-section.jpg": "/GunjanHardasmalani.github.io/static/media/about-me-section.3403426a.jpg",
+    "static/media/arte.jpg": "/GunjanHardasmalani.github.io/static/media/arte.16b9785d.jpg",
+    "static/media/csv.jpg": "/GunjanHardasmalani.github.io/static/media/csv.db1a96c4.jpg",
+    "static/media/dorm.jpg": "/GunjanHardasmalani.github.io/static/media/dorm.b3761a4f.jpg",
+    "static/media/erp.jpg": "/GunjanHardasmalani.github.io/static/media/erp.80854228.jpg",
+    "static/media/App.css": "/GunjanHardasmalani.github.io/static/media/gun.08aa5e1d.jpg",
+    "static/media/helpinghand.jpg": "/GunjanHardasmalani.github.io/static/media/helpinghand.0a4039b9.jpg",
+    "static/media/stocks1.jpg": "/GunjanHardasmalani.github.io/static/media/stocks1.0869ebe3.jpg",
+    "static/media/text-editor.png": "/GunjanHardasmalani.github.io/static/media/text-editor.d0b5863e.png",
+    "static/media/to-do.jpg": "/GunjanHardasmalani.github.io/static/media/to-do.154357dc.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b11d9ec3.js",
+    "static/js/2.5ad8eb05.chunk.js",
+    "static/css/main.14f91e5e.chunk.css",
+    "static/js/main.e67da6bf.chunk.js"
+  ]
+}
