@@ -2,6 +2,7 @@
   "homepage": "http://GunjanHardasmalani.github.io/GunjanHardasmalani.github.io",
   "name": "gunjan-portfolio",
   "version": "0.1.0",
+  "type": "module",
   "private": true,
   "description": "This is a portfolio website",
   "engines": {
