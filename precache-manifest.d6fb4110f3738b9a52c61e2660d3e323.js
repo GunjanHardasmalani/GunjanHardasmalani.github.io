@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e293da8aa9698de7695673d1fad1d872",
+    "revision": "9583751e541c84175df60593510bf9f3",
     "url": "/GunjanHardasmalani.github.io/index.html"
   },
   {
-    "revision": "11aa92b6064faca3033b",
+    "revision": "d667a205cd28abf9e31a",
     "url": "/GunjanHardasmalani.github.io/static/css/main.14f91e5e.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/GunjanHardasmalani.github.io/static/js/2.5ad8eb05.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "11aa92b6064faca3033b",
-    "url": "/GunjanHardasmalani.github.io/static/js/main.e67da6bf.chunk.js"
+    "revision": "d667a205cd28abf9e31a",
+    "url": "/GunjanHardasmalani.github.io/static/js/main.e047b70f.chunk.js"
   },
   {
     "revision": "3c2e6410d1c96e0a9dbe",
