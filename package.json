@@ -3,7 +3,7 @@
   "name": "gunjan-portfolio",
   "version": "0.1.0",
   "type": "module",
-  "private": true,
+  "private": false,
   "description": "This is a portfolio website",
   "engines": {
     "npm": "6.14.7",
