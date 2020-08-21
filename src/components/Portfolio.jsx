@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import $ from "jquery";
 import Isotope from "isotope-layout/js/isotope";
-import MyWork from "../components/MyWork";
+import MyWork from "./MyWork";
 import Projects from "../model/Projects";
 class Portfolio extends Component {
   componentDidMount() {
